@@ -65,3 +65,4 @@ if __name__ == "__main__":
     assert grille.nb_lignes == 10
     assert grille.nb_colonnes == 10
     assert len(grille.matrice) == 10
+
